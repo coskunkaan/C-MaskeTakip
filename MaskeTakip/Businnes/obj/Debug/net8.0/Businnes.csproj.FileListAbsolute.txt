@@ -1,0 +1,15 @@
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.csproj.AssemblyReference.cache
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.AssemblyInfoInputs.cache
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.AssemblyInfo.cs
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.csproj.CoreCompileInputs.cache
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\bin\Debug\net8.0\Businnes.deps.json
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\bin\Debug\net8.0\Businnes.dll
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\bin\Debug\net8.0\Businnes.pdb
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\bin\Debug\net8.0\Entites.dll
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\bin\Debug\net8.0\Entites.pdb
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.csproj.CopyComplete
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.dll
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\refint\Businnes.dll
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\Businnes.pdb
+C:\Users\cosku\source\repos\MaskeTakip\Businnes\obj\Debug\net8.0\ref\Businnes.dll

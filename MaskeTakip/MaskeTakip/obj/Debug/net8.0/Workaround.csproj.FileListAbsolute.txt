@@ -1,0 +1,5 @@
+C:\Users\cosku\source\repos\MaskeTakip\MaskeTakip\obj\Debug\net8.0\Workaround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\source\repos\MaskeTakip\MaskeTakip\obj\Debug\net8.0\Workaround.AssemblyInfoInputs.cache
+C:\Users\cosku\source\repos\MaskeTakip\MaskeTakip\obj\Debug\net8.0\Workaround.AssemblyInfo.cs
+C:\Users\cosku\source\repos\MaskeTakip\MaskeTakip\obj\Debug\net8.0\Workaround.csproj.CoreCompileInputs.cache
+C:\Users\cosku\source\repos\MaskeTakip\MaskeTakip\obj\Debug\net8.0\Workaround.csproj.AssemblyReference.cache

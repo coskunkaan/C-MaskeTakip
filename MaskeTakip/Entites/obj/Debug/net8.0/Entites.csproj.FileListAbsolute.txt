@@ -1,0 +1,11 @@
+C:\Users\cosku\source\repos\MaskeTakip\Entites\bin\Debug\net8.0\Entites.deps.json
+C:\Users\cosku\source\repos\MaskeTakip\Entites\bin\Debug\net8.0\Entites.dll
+C:\Users\cosku\source\repos\MaskeTakip\Entites\bin\Debug\net8.0\Entites.pdb
+C:\Users\cosku\source\repos\MaskeTakip\Entites\obj\Debug\net8.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\source\repos\MaskeTakip\Entites\obj\Debug\net8.0\Entites.AssemblyInfoInputs.cache
+C:\Users\cosku\source\repos\MaskeTakip\Entites\obj\Debug\net8.0\Entites.AssemblyInfo.cs
+C:\Users\cosku\source\repos\MaskeTakip\Entites\obj\Debug\net8.0\Entites.csproj.CoreCompileInputs.cache
+C:\Users\cosku\source\repos\MaskeTakip\Entites\obj\Debug\net8.0\Entites.dll
+C:\Users\cosku\source\repos\MaskeTakip\Entites\obj\Debug\net8.0\refint\Entites.dll
+C:\Users\cosku\source\repos\MaskeTakip\Entites\obj\Debug\net8.0\Entites.pdb
+C:\Users\cosku\source\repos\MaskeTakip\Entites\obj\Debug\net8.0\ref\Entites.dll

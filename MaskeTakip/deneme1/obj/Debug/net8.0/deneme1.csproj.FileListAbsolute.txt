@@ -1,0 +1,15 @@
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\obj\Debug\net8.0\deneme1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\obj\Debug\net8.0\deneme1.AssemblyInfoInputs.cache
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\obj\Debug\net8.0\deneme1.AssemblyInfo.cs
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\obj\Debug\net8.0\deneme1.csproj.CoreCompileInputs.cache
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\bin\Debug\net8.0\deneme1.exe
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\bin\Debug\net8.0\deneme1.deps.json
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\bin\Debug\net8.0\deneme1.runtimeconfig.json
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\bin\Debug\net8.0\deneme1.dll
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\bin\Debug\net8.0\deneme1.pdb
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\obj\Debug\net8.0\deneme1.dll
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\obj\Debug\net8.0\refint\deneme1.dll
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\obj\Debug\net8.0\deneme1.pdb
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\obj\Debug\net8.0\deneme1.genruntimeconfig.cache
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\obj\Debug\net8.0\ref\deneme1.dll
+C:\Users\cosku\source\repos\MaskeTakip\deneme1\obj\Debug\net8.0\deneme1.csproj.AssemblyReference.cache
